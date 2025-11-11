@@ -1,0 +1,10 @@
+Como Compilar
+Salve o código acima como WinTools.py.
+
+Execute o PyInstaller no terminal (certifique-se de que o WinTools.ico está na pasta):
+
+Bash
+
+python -m PyInstaller --onefile --windowed --icon=WinTools.ico WinTools.py
+
+O novo executável estará na pasta dist e a opção 12 agora oferecerá o link de download do Speedtest CLI se não o encontrar.
