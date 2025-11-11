@@ -1,4 +1,4 @@
-# 💾 WinTools - Versão Legacy (V1.0 - Tkinter)
+# 💾 WinTools - Versão Legacy (V1.0.19 - Tkinter)
 
 Esta pasta contém o código-fonte original do WinTools, desenvolvido utilizando a biblioteca nativa **Tkinter**. 
 
