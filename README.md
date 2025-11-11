@@ -1,4 +1,4 @@
-# 🛠️ WinTools - Kit de Ferramentas de Rede e Sistema (Windows)
+A# 🛠️ WinTools - Kit de Ferramentas de Rede e Sistema (Windows)
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge&sort=semver)](LINK_PARA_SUA_PAGINA_DE_RELEASES) 
 [![Licença MIT](https://img.shields.io/badge/Licença-MIT-blue.svg?style=for-the-badge)](LICENSE)
@@ -46,4 +46,5 @@ Se você deseja inspecionar ou modificar o código-fonte:
 Para gerar seu próprio executável:
 
 ```bash
+
 pyinstaller --windowed --onefile --icon=w_tools.ico wintools.py
